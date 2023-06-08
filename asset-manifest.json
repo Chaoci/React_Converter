@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chaoci/React_Converter.git/static/css/main.1d3825b7.css",
+    "main.js": "/Chaoci/React_Converter.git/static/js/main.a5909139.js",
+    "static/js/787.f4b07401.chunk.js": "/Chaoci/React_Converter.git/static/js/787.f4b07401.chunk.js",
+    "index.html": "/Chaoci/React_Converter.git/index.html",
+    "main.1d3825b7.css.map": "/Chaoci/React_Converter.git/static/css/main.1d3825b7.css.map",
+    "main.a5909139.js.map": "/Chaoci/React_Converter.git/static/js/main.a5909139.js.map",
+    "787.f4b07401.chunk.js.map": "/Chaoci/React_Converter.git/static/js/787.f4b07401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3825b7.css",
+    "static/js/main.a5909139.js"
+  ]
+}
